@@ -1,0 +1,997 @@
+fileFormatVersion: 2
+guid: 31c837d560f01934ba55159184647595
+timeCreated: 1519604516
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tardis.gif_0
+    21300002: tardis.gif_1
+    21300004: tardis.gif_2
+    21300006: tardis.gif_3
+    21300008: tardis.gif_4
+    21300010: tardis.gif_5
+    21300012: tardis.gif_6
+    21300014: tardis.gif_7
+    21300016: tardis.gif_8
+    21300018: tardis.gif_9
+    21300020: tardis.gif_10
+    21300022: tardis.gif_11
+    21300024: tardis.gif_12
+    21300026: tardis.gif_13
+    21300028: tardis.gif_14
+    21300030: tardis.gif_15
+    21300032: tardis.gif_16
+    21300034: tardis.gif_17
+    21300036: tardis.gif_18
+    21300038: tardis.gif_19
+    21300040: tardis.gif_20
+    21300042: tardis.gif_21
+    21300044: tardis.gif_22
+    21300046: tardis.gif_23
+    21300048: tardis.gif_24
+    21300050: tardis.gif_25
+    21300052: tardis.gif_26
+    21300054: tardis.gif_27
+    21300056: tardis.gif_28
+    21300058: tardis.gif_29
+    21300060: tardis.gif_30
+    21300062: tardis.gif_31
+    21300064: tardis.gif_32
+    21300066: tardis.gif_33
+    21300068: tardis.gif_34
+    21300070: tardis.gif_35
+    21300072: tardis.gif_36
+    21300074: tardis.gif_37
+    21300076: tardis.gif_38
+    21300078: tardis.gif_39
+    21300080: tardis.gif_40
+    21300082: tardis.gif_41
+    21300084: tardis.gif_42
+    21300086: tardis.gif_43
+    21300088: tardis.gif_44
+    21300090: tardis.gif_45
+    21300092: tardis.gif_46
+    21300094: tardis.gif_47
+    21300096: tardis.gif_48
+    21300098: tardis.gif_49
+    21300100: tardis.gif_50
+    21300102: tardis.gif_51
+    21300104: tardis.gif_52
+    21300106: tardis.gif_53
+    21300108: tardis.gif_54
+    21300110: tardis.gif_55
+    21300112: tardis.gif_56
+    21300114: tardis.gif_57
+    21300116: tardis.gif_58
+    21300118: tardis.gif_59
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tardis.gif_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1969
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1969
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_2
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1969
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_3
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1969
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_4
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1969
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1790
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_6
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1790
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_7
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1790
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_8
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1790
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_9
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1790
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1611
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_11
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1611
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_12
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1611
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_13
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1611
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_14
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1611
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1432
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_16
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1432
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_17
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1432
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_18
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1432
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_19
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1432
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1253
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_21
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1253
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_22
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1253
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_23
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1253
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_24
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1253
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1074
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_26
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1074
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_27
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1074
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_28
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1074
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_29
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1074
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 895
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_31
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 895
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_32
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 895
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_33
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 895
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_34
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 895
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 716
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_36
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 716
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_37
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 716
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_38
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 716
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_39
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 716
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 537
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_41
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 537
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_42
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 537
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_43
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 537
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_44
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 537
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_46
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 358
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_47
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 358
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_48
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 358
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_49
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 358
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_51
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 179
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_52
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 179
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_53
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 179
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_54
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 179
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_56
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 0
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_57
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 0
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_58
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 0
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tardis.gif_59
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 0
+        width: 318
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
